@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ETL Developer
 -------------
 
-Current position: ETL Developer I am interested and learning about Python and Django.
+Current position: ETL Developer I am interested and learning about data engineer infrastructure.
 
 * 🌍  I'm based in Pathum Thani ,Thailand
 * ✉️  You can contact me at [kritsanasonong@gmail.com](mailto:kritsanasonong@gmail.com)
-* 🧠  I'm learning Python and Django.
 
 ### Skills
 
