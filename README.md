@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-[cite_start]I am an **ETL Developer** experienced in data integration, migration, and transformation. [cite: 1] [cite_start]I am proficient in ETL tools such as DataStage, SSIS, and Azure Databricks, with practical skills in SQL and Python. [cite: 2] [cite_start]I am a problem solver and a collaborative team player committed to delivering reliable and efficient data solutions. [cite: 3]
+ETL Developer experienced in data integration, migration, and transformation. Proficient in ETL tools such as DataStage, SSIS, and Azure Databricks, with practical skills in SQL and Python. A problem solver and collaborative team player committed to delivering reliable and efficient data solutions.
 
 ---
 
