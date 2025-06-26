@@ -1,7 +1,7 @@
-<h1 align="center">👋 สวัสดีครับ, ผมชื่อ กฤษณะ สอ่อง (Kritsana Sonong) 👋</h1>
+<h1 align="center">👋 Hello, I'm Kritsana Sanong 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kritsana-sonong-8b5b5b22b" target="_blank">
+  <a href="https://www.linkedin.com/in/kritsana-sonong-5ab0b5200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:kritsanasonong@gmail.com">
@@ -14,17 +14,17 @@
 
 ---
 
-### 🚀 เกี่ยวกับผม
+### 🚀 About Me
 
-[cite_start]ผมเป็น **ETL Developer** ที่มีประสบการณ์ด้านการรวมข้อมูล (data integration), การย้ายข้อมูล (migration), และการแปลงข้อมูล (transformation) [cite: 1] [cite_start]ผมเชี่ยวชาญเครื่องมือ ETL ต่างๆ เช่น DataStage, SSIS, และ Azure Databricks [cite: 2] [cite_start]และมีทักษะการใช้งาน SQL และ Python ได้เป็นอย่างดี [cite: 2] [cite_start]ผมเป็นนักแก้ปัญหาและชอบทำงานเป็นทีม เพื่อส่งมอบโซลูชันข้อมูลที่น่าเชื่อถือและมีประสิทธิภาพ [cite: 3]
+I am an **ETL Developer** experienced in data integration, migration, and transformation. I am proficient in ETL tools such as DataStage, SSIS, and Azure Databricks, with practical skills in SQL and Python. [cite_start]I am a problem solver and a collaborative team player committed to delivering reliable and efficient data solutions. [cite: 1, 2, 3]
 
 ---
 
-### 🛠️ ทักษะและเครื่องมือ
+### 🛠️ Skills & Technologies
 
-นี่คือทักษะและเครื่องมือที่ผมใช้งานเป็นประจำครับ:
+Here are the skills and tools I regularly use:
 
-#### **ฐานข้อมูลและภาษา SQL:**
+#### **Database and SQL Language:**
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-#### **เครื่องมือ ETL:**
+#### **ETL Tools:**
 <p>
   <img src="https://img.shields.io/badge/IBM%20InfoSphere%20DataStage-002D62?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM InfoSphere DataStage"/>
   <img src="https://img.shields.io/badge/SSIS-2173B9?style=for-the-badge&logo=microsoft&logoColor=white" alt="SQL Server Integration Services"/>
@@ -47,24 +47,24 @@
   <img src="https://img.shields.io/badge/SAP%20Business%20Warehouse-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business Warehouse"/>
 </p>
 
-#### **ภาษาโปรแกรม:**
+#### **Programming Languages:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Language"/>
   <img src="https://img.shields.io/badge/SAS%20Programming-000000?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Programming"/>
 </p>
 
-#### **อื่นๆ:**
+#### **Other Tools:**
 <p>
   <img src="https://img.shields.io/badge/SSRS-2173B9?style=for-the-badge&logo=microsoft&logoColor=white" alt="SQL Server Reporting Services"/>
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Microsoft SharePoint Server"/>
   <img src="https://img.shields.io/badge/Redgate%20SQL%20Data%20Compare-D83D3D?style=for-the-badge&logo=redgate&logoColor=white" alt="Redgate SQL Data Compare"/>
   <img src="https://img.shields.io/badge/SAP%20Business%20Objects-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business Objects"/>
-  <img src="https://img.shields.io/badge/Control--M-56A756?style=for-the-badge&logo=bmc&logoColor=white" alt="Control-M"/>
+  <img src="https://img.countingup.com/media/images/control-m.original.format-webp.webp?width=500&name=control-m.webp" width="90px" alt="Control-M"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Jenkins-2C526F?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
 
-#### **สิ่งที่กำลังเรียนรู้เพิ่มเติม:**
+#### **Currently Learning:**
 <p>
   <img src="https://img.shields.io/badge/Python%20Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Python Django"/>
   <img src="https://img.shields.io/badge/Python%20FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Python FastAPI"/>
@@ -76,47 +76,109 @@
 
 ---
 
-### 💼 ประสบการณ์ทำงานเด่น
+### 💼 Work Experience Highlights
 
-#### **ETL Developer @ Getlinks (Thailand) Co., Ltd. (Onsite: Kiatnakin Phatra Bank Public Company)** [ก.พ. 2566 - เม.ย. [cite_start]2568] [cite: 5]
-* **โปรเจกต์: Regulatory Data Transformation (RDT)** [ม.ค. 2567 - เม.ย. [cite_start]2568] [cite: 6]
-    * [cite_start]พัฒนาและแก้ไข Databricks notebooks ตามงาน RDT [cite: 6]
-    * [cite_start]สร้าง Procedure ตรวจสอบ source table ก่อนรัน SSIS job บน Microsoft SQL Server Agent [cite: 7]
-    * [cite_start]ตรวจสอบและแก้ไขข้อมูลสิ้นเดือนให้ถูกต้องตาม Requirement และส่งไฟล์ให้ BOT [cite: 8]
-    * [cite_start]แก้ไขปัญหาข้อมูลที่ถูก Report ไปยัง BOT [cite: 8]
-* **โปรเจกต์: Enterprise Data Platform (EDP)** [ก.พ. 2566 - ธ.ค. [cite_start]2566] [cite: 10]
-    * [cite_start]พัฒนาและกำหนดค่า Process สำหรับแปลงข้อมูลจากหลาย Source เข้าสู่ EDP database [cite: 10]
-    * [cite_start]พัฒนาและกำหนดค่า Process โอนถ่ายข้อมูลจาก EDP database ไปยังฐานข้อมูลต่างๆ [cite: 11]
-    * [cite_start]สนับสนุน SR ต่างๆ ของโปรเจกต์ EDP [cite: 11]
-    * [cite_start]ย้ายข้อมูลจาก Legacy tables ไปยัง EDP [cite: 12]
+#### **ETL Developer @ Getlinks (Thailand) Co., Ltd. (Onsite: Kiatnakin Phatra Bank Public Company)** [Feb. [cite_start]2023 - Apr. 2025] [cite: 5]
+* **Project: Regulatory Data Transformation (RDT)** [Jan. [cite_start]2024 - Apr. 2025] [cite: 6]
+    * [cite_start]Developed and edited Databricks notebooks based on RDT tasks. [cite: 6]
+    * [cite_start]Created a procedure to check the source table before running the SSIS job at Microsoft SQL Server Agent. [cite: 7]
+    * [cite_start]Checked end-of-month data and corrected it according to requirements, then sent the file to BOT. [cite: 8]
+    * [cite_start]Reviewed data issues reported to BOT, found causes, and fixed them. [cite: 8]
+    * [cite_start]Cloned processes and related items of the RDT project from Production to Develop and UAT environments. [cite: 9]
+* **Project: Enterprise Data Platform (EDP)** [Feb. [cite_start]2023 - Dec. 2023] [cite: 10]
+    * [cite_start]Developed and configured processes for transforming data from various sources into the EDP database. [cite: 10]
+    * [cite_start]Developed and configured data transfer processes from the EDP database to various databases. [cite: 11]
+    * [cite_start]Supported various SRs of the EDP project. [cite: 11]
+    * [cite_start]Migrated from Legacy tables to EDP. [cite: 12]
+    * [cite_start]User Acceptance Test (UAT). [cite: 12]
+    * [cite_start]Deployed to production. [cite: 12]
+* [cite_start]**Tools & Technologies:** Oracle database, Microsoft database, PostgreSQL, Microsoft Azure Databricks, Microsoft Azure Data Factory (ADF), Microsoft Azure Synapse, Python language. [cite: 13]
 
-#### **Developer @ K. Stone Corporation Limited (Onsite: Siam Commercial Bank Head Office - OFSAA Team)** [พ.ย. 2565 - ธ.ค. [cite_start]2565] [cite: 14, 15]
-* [cite_start]พัฒนา ODI packages สำหรับโหลดและแปลงข้อมูล [cite: 15]
-* [cite_start]พัฒนา Batch file สำหรับเรียก ODI packages [cite: 15]
+#### **Developer @ K. Stone Corporation Limited (Onsite: Siam Commercial Bank Head Office - OFSAA Team)** [Nov. [cite_start]2022 - Dec. 2022] [cite: 14]
+* [cite_start]Developed ODI packages for load and transform data. [cite: 15]
+* [cite_start]Developed a batch file for calling ODI packages. [cite: 15]
+* [cite_start]System Integration Test (SIT). [cite: 16]
+* [cite_start]User Acceptance Test (UAT). [cite: 16]
+* [cite_start]Created a playbook document. [cite: 16]
+* [cite_start]Created a dependency document. [cite: 16]
+* [cite_start]Developed procedure for ODI package. [cite: 17]
+* [cite_start]**Tools & Technologies:** Oracle Data Integrator, Oracle SQL Developer. [cite: 17]
 
-#### **SAS Consultant @ Double P Enterprise Company Limited** [ก.ค. 2564 - ต.ค. [cite_start]2565] [cite: 18]
-* **โปรเจกต์: BBL AML upgrade 8.3** [ม.ค. 2565 - ต.ค. [cite_start]2565] [cite: 19]
-    * [cite_start]สร้าง Job เพื่อรองรับการเปลี่ยน Version [cite: 19]
-    * [cite_start]พัฒนา SAS code สำหรับ Test Data (Old version) และพัฒนา Jobs ใน SAS Visual Investigator (New version) [cite: 20, 21]
-    * [cite_start]เปรียบเทียบข้อมูลและ Mapping ระหว่าง Old และ New versions [cite: 21, 22]
+#### **SAS Consultant @ Double P Enterprise Company Limited** [Jul. [cite_start]2021 - Oct. 2022] [cite: 18]
+* **Project: BBL AML upgrade 8.3** [Jan. [cite_start]2022 - Oct. 2022] [cite: 19]
+    * [cite_start]Created jobs to support version changes. [cite: 19]
+    * [cite_start]Prepared test cases and mockup data for test cases. [cite: 20]
+    * [cite_start]Developed SAS code for test data (Old version). [cite: 20]
+    * [cite_start]Developed jobs in SAS Visual Investigator (New version). [cite: 21]
+    * [cite_start]Compared data and mapping between old and new versions. [cite: 21, 22]
+* **Project: KTB MA Upgrade (Data Integration Team)** [Jul. [cite_start]2021 - Jun. 2022] [cite: 22]
+    * [cite_start]Validated Data Integration jobs. [cite: 22]
+    * [cite_start]Checked for errors, warnings and fixed them. [cite: 23]
+    * [cite_start]Examined the linkages and impacts of each process. [cite: 23]
+    * [cite_start]System Integration Test (SIT). [cite: 24]
+    * [cite_start]User Acceptance Testing (UAT) and Production Support. [cite: 24]
+* [cite_start]**Tools & Technologies:** SAS Data Integration Studio, SAS Enterprise Guide, SAS Visual Investigator. [cite: 25]
+
+#### **ETL Developer @ Innopia (Thailand) Co., Ltd. (Onsite: Kiatnakin Phatra Bank Public Company Limited)** [Jan. [cite_start]2021 - Jun. 2021] [cite: 26]
+* [cite_start]**Project: EDP** [cite: 27]
+    * [cite_start]Developed Mapping Document by converting from SQL Script. [cite: 27]
+    * [cite_start]Developed Mapping Document by converting from SAP Business Warehouse Process. [cite: 28]
+    * [cite_start]Developed Job DataStage for Migrate Data and replace the old system. [cite: 29]
+* [cite_start]**Project: EDM** [cite: 29]
+    * [cite_start]Developed Job DataStage for data transfer. [cite: 29]
+    * [cite_start]User Acceptance Testing (UAT) and Production Support. [cite: 30]
+* [cite_start]**Tools & Technologies:** Oracle SQL, IBM InfoSphere DataStage, SAP Business Warehouse. [cite: 30]
+
+#### **ETL Developer @ Adi Resourcing (Thailand) (Onsite: Siam Commercial Bank Head Office)** [Apr. [cite_start]2020 - Dec. 2020] [cite: 31]
+* [cite_start]Developed SQL scripts for System Integration Test (SIT) based on User Requirements. [cite: 31]
+* [cite_start]Developed and Configured DataStage. [cite: 31]
+* [cite_start]Used Control-M to run the Job DataStage. [cite: 31]
+* [cite_start]Used SAP Business Objects and SAP Business Intelligence to prepare Data for creating reports. [cite: 31]
+* [cite_start]Wrote a shell script to scan for files and processes in the server used for Run Control-M. [cite: 31]
+* [cite_start]**Tools & Technologies:** Teradata SQL, IBM InfoSphere DataStage, Control-M, GitLab, Jenkins, SAP Business Objects, SAP Business Intelligence. [cite: 31]
+
+#### **ETL Developer @ 31 Infotech (Thailand) Ltd (Onsite: Ngern Tid Lor Public Company Limited, head office)** [Sep. [cite_start]2019 - Mar. 2020] [cite: 31]
+* [cite_start]Developed package transfer data using SQL Server Integration Services. [cite: 31]
+* [cite_start]Created a schedule in the SQL Server agent to execute Package transfer data. [cite: 31]
+* [cite_start]Verified data integrity using the Redgate SQL Data Compare tool. [cite: 31]
+* [cite_start]**Tools & Technologies:** SQL Server Integration Services (SSIS), Microsoft SQL Server, Redgate SQL Data Compare. [cite: 31]
+
+#### **SQL Developer @ G-ABLE Co., LTD (Onsite: Siam Commercial Bank Head Office)** [Oct. [cite_start]2018 - Aug. 2019] [cite: 32]
+* [cite_start]Developed Job DataStage for data transfer. [cite: 33]
+* [cite_start]User Acceptance Testing (UAT) and Production Support. [cite: 33]
+* [cite_start]**Tools & Technologies:** Microsoft SQL Server, IBM InfoSphere DataStage. [cite: 34]
+
+#### **Programmer @ K. Stone Corporation Ltd (Onsite: Advanced Info Service Public Company Limited (AIS))** [Jul. [cite_start]2018 - Oct. 2018] [cite: 35]
+* [cite_start]Developed SQL Script according to Requirement. [cite: 36]
+* [cite_start]Configured the framework to meet the requirements. [cite: 36]
+* [cite_start]**Tools & Technologies:** PostgreSQL. [cite: 36]
+
+#### **Programmer @ The Expertise Co., Ltd.** [Mar. [cite_start]2017 - Jun. 2018] [cite: 37]
+* [cite_start]Designed and created databases. [cite: 38]
+* [cite_start]Developed information system of the Ministry of Culture. [cite: 38]
+* [cite_start]Prepared data for generating reports. [cite: 38]
+* [cite_start]Created a report to display on the system. [cite: 39]
+* [cite_start]Prepared manuals and trained users of information systems of the Ministry of Culture. [cite: 39]
+* [cite_start]Experimented with various programs using Microsoft Hyper-V. [cite: 40]
+* [cite_start]**Tools & Technologies:** Microsoft SQL Server, SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), SQL Server Reporting Services (SSRS), Microsoft SharePoint Server, Microsoft Hyper-V. [cite: 40]
 
 ---
 
-### 🎓 การศึกษา
+### 🎓 Education
 
 [cite_start]**Bachelor of Engineering, Computer Engineering** [cite: 4]
 [cite_start]Uttaradit Rajabhat University, Thailand [cite: 4]
-[cite_start]จบปี: 2017 [cite: 4]
+[cite_start]Graduated: 2017 [cite: 4]
 
 ---
 
-### 📊 สถิติ GitHub (จะอัปเดตอัตโนมัติหากเชื่อมต่อ)
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KSPIAS&show_icons=true&theme=dark&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KSPIAS&show_icons=true&&theme=dark&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSPIAS&layout=compact&theme=dark&hide_title=true)
 
 ---
 
 <p align="center">
-  ขอบคุณที่เยี่ยมชมโปรไฟล์ของผมนะครับ!
+  Thank you for visiting my profile!
 </p>
