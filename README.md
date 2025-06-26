@@ -1,15 +1,13 @@
-<h1 align="center">👋 Hello, I'm Kritsana Sanong 👋</h1>
+<h1 align="center">👋 Hello, I'm Kritsana Sonong 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kritsana-sonong-5ab0b5200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:kritsanasonong@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="tel:+66967917238">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
-  </a>
+  <br>
+  <strong>Email:</strong> kritsanasonong@gmail.com
+  <br>
+  <strong>Phone:</strong> 0967917238
 </p>
 
 ---
