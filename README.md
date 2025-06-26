@@ -38,6 +38,7 @@ ETL Developer experienced in data integration, migration, and transformation. Pr
 
 #### **Programming Languages:**
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL Language"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Language"/>
   <img src="https://img.shields.io/badge/SAS%20Programming-000000?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Programming"/>
 </p>
@@ -45,12 +46,9 @@ ETL Developer experienced in data integration, migration, and transformation. Pr
 #### **Other Tools:**
 <p>
   <img src="https://img.shields.io/badge/SSRS-2173B9?style=for-the-badge&logo=microsoft&logoColor=white" alt="SQL Server Reporting Services"/>
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Microsoft SharePoint Server"/>
   <img src="https://img.shields.io/badge/Redgate%20SQL%20Data%20Compare-D83D3D?style=for-the-badge&logo=redgate&logoColor=white" alt="Redgate SQL Data Compare"/>
-  <img src="https://img.shields.io/badge/SAP%20Business%20Objects-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business Objects"/>
-  <img src="https://img.shields.io/badge/Control--M-56A756?style=for-the-badge&logo=bmc&logoColor=white" alt="Control-M"/>
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Jenkins-2C526F?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white" alt="Microsoft Azure Data Factory"/>
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white" alt="Microsoft Azure Synapse"/>
 </p>
 
 #### **Currently Learning:**
