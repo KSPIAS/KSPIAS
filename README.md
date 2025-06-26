@@ -31,13 +31,9 @@ ETL Developer experienced in data integration, migration, and transformation. Pr
 <p>
   <img src="https://img.shields.io/badge/IBM%20InfoSphere%20DataStage-002D62?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM InfoSphere DataStage"/>
   <img src="https://img.shields.io/badge/SSIS-2173B9?style=for-the-badge&logo=microsoft&logoColor=white" alt="SQL Server Integration Services"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white" alt="Microsoft Azure Data Factory"/>
-  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white" alt="Microsoft Azure Synapse"/>
+  <img src="https://img.shields.io/badge/SSAS-2173B9?style=for-the-badge&logo=microsoft&logoColor=white" alt="SQL Server Analysis Services"/>
   <img src="https://img.shields.io/badge/Oracle%20Data%20Integrator-E82127?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Data Integrator"/>
   <img src="https://img.shields.io/badge/SAS%20Data%20Integration-000000?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Data Integration"/>
-  <img src="https://img.shields.io/badge/SAS%20Enterprise%20Guide-000000?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Enterprise Guide"/>
-  <img src="https://img.shields.io/badge/SAS%20Visual%20Investigator-000000?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Visual Investigator"/>
-  <img src="https://img.shields.io/badge/SAP%20Business%20Warehouse-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business Warehouse"/>
 </p>
 
 #### **Programming Languages:**
