@@ -16,13 +16,13 @@
 
 ### 🚀 About Me
 
-I am an **ETL Developer** experienced in data integration, migration, and transformation. I am proficient in ETL tools such as DataStage, SSIS, and Azure Databricks, with practical skills in SQL and Python. [cite_start]I am a problem solver and a collaborative team player committed to delivering reliable and efficient data solutions. [cite: 1, 2, 3]
+[cite_start]I am an **ETL Developer** experienced in data integration, migration, and transformation. [cite: 1] [cite_start]I am proficient in ETL tools such as DataStage, SSIS, and Azure Databricks, with practical skills in SQL and Python. [cite: 2] [cite_start]I am a problem solver and a collaborative team player committed to delivering reliable and efficient data solutions. [cite: 3]
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-Here are the skills and tools I regularly use:
+[cite_start]Here are the skills and tools I regularly use: [cite: 41]
 
 #### **Database and SQL Language:**
 <p>
@@ -59,7 +59,7 @@ Here are the skills and tools I regularly use:
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Microsoft SharePoint Server"/>
   <img src="https://img.shields.io/badge/Redgate%20SQL%20Data%20Compare-D83D3D?style=for-the-badge&logo=redgate&logoColor=white" alt="Redgate SQL Data Compare"/>
   <img src="https://img.shields.io/badge/SAP%20Business%20Objects-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business Objects"/>
-  <img src="https://img.countingup.com/media/images/control-m.original.format-webp.webp?width=500&name=control-m.webp" width="90px" alt="Control-M"/>
+  <img src="https://img.shields.io/badge/Control--M-56A756?style=for-the-badge&logo=bmc&logoColor=white" alt="Control-M"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Jenkins-2C526F?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
@@ -81,22 +81,23 @@ Here are the skills and tools I regularly use:
 #### **ETL Developer @ Getlinks (Thailand) Co., Ltd. (Onsite: Kiatnakin Phatra Bank Public Company)** [Feb. [cite_start]2023 - Apr. 2025] [cite: 5]
 * **Project: Regulatory Data Transformation (RDT)** [Jan. [cite_start]2024 - Apr. 2025] [cite: 6]
     * [cite_start]Developed and edited Databricks notebooks based on RDT tasks. [cite: 6]
+    * [cite_start]Configured process for calling Databricks notebooks. [cite: 7]
     * [cite_start]Created a procedure to check the source table before running the SSIS job at Microsoft SQL Server Agent. [cite: 7]
-    * [cite_start]Checked end-of-month data and corrected it according to requirements, then sent the file to BOT. [cite: 8]
-    * [cite_start]Reviewed data issues reported to BOT, found causes, and fixed them. [cite: 8]
-    * [cite_start]Cloned processes and related items of the RDT project from Production to Develop and UAT environments. [cite: 9]
+    * [cite_start]Checked the end of month data and corrected the data to be correct according to the requirements and sent the file to BOT. [cite: 8]
+    * [cite_start]Reviewed data issues reported to BOT and found the cause and fix it. [cite: 8]
+    * [cite_start]Cloned the processes and related items of the RDT project from the Production environment to the Develop environment and the UAT environment. [cite: 9]
 * **Project: Enterprise Data Platform (EDP)** [Feb. [cite_start]2023 - Dec. 2023] [cite: 10]
-    * [cite_start]Developed and configured processes for transforming data from various sources into the EDP database. [cite: 10]
+    * [cite_start]Developed and configured process for transforming data from various sources into EDP database. [cite: 10]
     * [cite_start]Developed and configured data transfer processes from the EDP database to various databases. [cite: 11]
-    * [cite_start]Supported various SRs of the EDP project. [cite: 11]
-    * [cite_start]Migrated from Legacy tables to EDP. [cite: 12]
+    * [cite_start]Supported various SR of EDP project. [cite: 11]
+    * [cite_start]Migrated From Legacy tables to EDP. [cite: 12]
     * [cite_start]User Acceptance Test (UAT). [cite: 12]
-    * [cite_start]Deployed to production. [cite: 12]
+    * [cite_start]Deployed production. [cite: 12]
 * [cite_start]**Tools & Technologies:** Oracle database, Microsoft database, PostgreSQL, Microsoft Azure Databricks, Microsoft Azure Data Factory (ADF), Microsoft Azure Synapse, Python language. [cite: 13]
 
-#### **Developer @ K. Stone Corporation Limited (Onsite: Siam Commercial Bank Head Office - OFSAA Team)** [Nov. [cite_start]2022 - Dec. 2022] [cite: 14]
+#### **Developer @ K. Stone Corporation Limited (Onsite: Siam Commercial Bank Head Office - OFSAA Team)** [Nov. [cite_start]2022 - Dec. 2022] [cite: 14, 15]
 * [cite_start]Developed ODI packages for load and transform data. [cite: 15]
-* [cite_start]Developed a batch file for calling ODI packages. [cite: 15]
+* [cite_start]Developed a batch file for the calling ODI packages. [cite: 15]
 * [cite_start]System Integration Test (SIT). [cite: 16]
 * [cite_start]User Acceptance Test (UAT). [cite: 16]
 * [cite_start]Created a playbook document. [cite: 16]
@@ -107,19 +108,23 @@ Here are the skills and tools I regularly use:
 #### **SAS Consultant @ Double P Enterprise Company Limited** [Jul. [cite_start]2021 - Oct. 2022] [cite: 18]
 * **Project: BBL AML upgrade 8.3** [Jan. [cite_start]2022 - Oct. 2022] [cite: 19]
     * [cite_start]Created jobs to support version changes. [cite: 19]
-    * [cite_start]Prepared test cases and mockup data for test cases. [cite: 20]
+    * [cite_start]Prepared test cases. [cite: 19]
+    * [cite_start]Mockup data for test cases. [cite: 20]
     * [cite_start]Developed SAS code for test data (Old version). [cite: 20]
     * [cite_start]Developed jobs in SAS Visual Investigator (New version). [cite: 21]
-    * [cite_start]Compared data and mapping between old and new versions. [cite: 21, 22]
+    * [cite_start]Compared data between old and new versions. [cite: 21]
+    * [cite_start]Compared mapping between old and new versions. [cite: 22]
 * **Project: KTB MA Upgrade (Data Integration Team)** [Jul. [cite_start]2021 - Jun. 2022] [cite: 22]
     * [cite_start]Validated Data Integration jobs. [cite: 22]
-    * [cite_start]Checked for errors, warnings and fixed them. [cite: 23]
+    * [cite_start]Checked for errors, warnings and fix them. [cite: 23]
     * [cite_start]Examined the linkages and impacts of each process. [cite: 23]
     * [cite_start]System Integration Test (SIT). [cite: 24]
+    * [cite_start]Check for errors, warnings, data sources and file exports. [cite: 24]
     * [cite_start]User Acceptance Testing (UAT) and Production Support. [cite: 24]
 * [cite_start]**Tools & Technologies:** SAS Data Integration Studio, SAS Enterprise Guide, SAS Visual Investigator. [cite: 25]
 
 #### **ETL Developer @ Innopia (Thailand) Co., Ltd. (Onsite: Kiatnakin Phatra Bank Public Company Limited)** [Jan. [cite_start]2021 - Jun. 2021] [cite: 26]
+* [cite_start]**Responsibilities: Data Warehouse Team** [cite: 27]
 * [cite_start]**Project: EDP** [cite: 27]
     * [cite_start]Developed Mapping Document by converting from SQL Script. [cite: 27]
     * [cite_start]Developed Mapping Document by converting from SAP Business Warehouse Process. [cite: 28]
@@ -130,20 +135,23 @@ Here are the skills and tools I regularly use:
 * [cite_start]**Tools & Technologies:** Oracle SQL, IBM InfoSphere DataStage, SAP Business Warehouse. [cite: 30]
 
 #### **ETL Developer @ Adi Resourcing (Thailand) (Onsite: Siam Commercial Bank Head Office)** [Apr. [cite_start]2020 - Dec. 2020] [cite: 31]
+* [cite_start]**Responsibilities: EDW Team** [cite: 31]
 * [cite_start]Developed SQL scripts for System Integration Test (SIT) based on User Requirements. [cite: 31]
 * [cite_start]Developed and Configured DataStage. [cite: 31]
-* [cite_start]Used Control-M to run the Job DataStage. [cite: 31]
-* [cite_start]Used SAP Business Objects and SAP Business Intelligence to prepare Data for creating reports. [cite: 31]
-* [cite_start]Wrote a shell script to scan for files and processes in the server used for Run Control-M. [cite: 31]
+* [cite_start]Used Control-M to run the job DataStage. [cite: 31]
+* [cite_start]Used SAP Business Objects and SAP Business Intelligence to prepare Data for Create report. [cite: 31]
+* [cite_start]Wrote a shell script to scan for files and processes in the server used for Run control-M. [cite: 31]
 * [cite_start]**Tools & Technologies:** Teradata SQL, IBM InfoSphere DataStage, Control-M, GitLab, Jenkins, SAP Business Objects, SAP Business Intelligence. [cite: 31]
 
 #### **ETL Developer @ 31 Infotech (Thailand) Ltd (Onsite: Ngern Tid Lor Public Company Limited, head office)** [Sep. [cite_start]2019 - Mar. 2020] [cite: 31]
+* [cite_start]**Responsibilities: Data Warehouse Team** [cite: 31]
 * [cite_start]Developed package transfer data using SQL Server Integration Services. [cite: 31]
 * [cite_start]Created a schedule in the SQL Server agent to execute Package transfer data. [cite: 31]
 * [cite_start]Verified data integrity using the Redgate SQL Data Compare tool. [cite: 31]
 * [cite_start]**Tools & Technologies:** SQL Server Integration Services (SSIS), Microsoft SQL Server, Redgate SQL Data Compare. [cite: 31]
 
 #### **SQL Developer @ G-ABLE Co., LTD (Onsite: Siam Commercial Bank Head Office)** [Oct. [cite_start]2018 - Aug. 2019] [cite: 32]
+* [cite_start]**Responsibilities: Data Migration Team** [cite: 33]
 * [cite_start]Developed Job DataStage for data transfer. [cite: 33]
 * [cite_start]User Acceptance Testing (UAT) and Production Support. [cite: 33]
 * [cite_start]**Tools & Technologies:** Microsoft SQL Server, IBM InfoSphere DataStage. [cite: 34]
@@ -154,6 +162,7 @@ Here are the skills and tools I regularly use:
 * [cite_start]**Tools & Technologies:** PostgreSQL. [cite: 36]
 
 #### **Programmer @ The Expertise Co., Ltd.** [Mar. [cite_start]2017 - Jun. 2018] [cite: 37]
+* [cite_start]**Responsibilities:** [cite: 38]
 * [cite_start]Designed and created databases. [cite: 38]
 * [cite_start]Developed information system of the Ministry of Culture. [cite: 38]
 * [cite_start]Prepared data for generating reports. [cite: 38]
