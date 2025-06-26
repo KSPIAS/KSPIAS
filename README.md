@@ -18,9 +18,6 @@ ETL Developer experienced in data integration, migration, and transformation. Pr
 ---
 
 ### 🛠️ Skills & Technologies
-
-[cite_start]Here are the skills and tools I regularly use: [cite: 41]
-
 #### **Database and SQL Language:**
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
@@ -28,7 +25,6 @@ ETL Developer experienced in data integration, migration, and transformation. Pr
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Teradata-E73F28?style=for-the-badge&logo=teradata&logoColor=white" alt="Teradata"/>
   <img src="https://img.shields.io/badge/Azure%20Databricks-292F6A?style=for-the-badge&logo=databricks&logoColor=white" alt="Microsoft Azure Databricks"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 #### **ETL Tools:**
