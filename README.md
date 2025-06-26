@@ -162,9 +162,10 @@ ETL Developer experienced in data integration, migration, and transformation. Pr
 
 ### 🎓 Education
 
-[cite_start]**Bachelor of Engineering, Computer Engineering** [cite: 4]
-[cite_start]Uttaradit Rajabhat University, Thailand [cite: 4]
-[cite_start]Graduated: 2017 [cite: 4]
+**University:** Uttaradit Rajabhat University, Thailand
+&nbsp;**Degree:** Bachelor of Engineering
+&nbsp;**Major:** Computer Engineering
+&nbsp;**Year:** 2017
 
 ---
 
